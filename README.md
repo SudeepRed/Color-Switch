@@ -3,6 +3,10 @@ This was my Advanced Programming final project for my 3rd semester.
 We replicated the popular game color-switch, by using Advanced JAVA concepts and JAVA Design patterns.
 ### Team members- Sudeep Reddy, Bhaskar Gupta
 
+<div align='center'>
+<img style="border:1px black solid;" height=400px width=250px src="https://github.com/guptabhaskar/Color-Switch/blob/master/img/GIF.gif">
+</div>
+
 ## Problems Faced and how we solved them
 ### 1. How did we implement multiple “saved game” options?
 1. By creating an array list of GameState objects and choosing them based on the number the user chooses which would indicate the index number in the array list.
@@ -30,4 +34,8 @@ Used when spawning random obstacles on screen screen.
     - Makes you immortal to pass through 5 incoming obstacles.
 3. Boost
     - Makes you go really fast for 15 obstacles.
+
+
+
+
 
